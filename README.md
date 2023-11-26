@@ -40,7 +40,7 @@ This project has demonstrated the power of data analysis to identify patterns, t
 ## Screenshots
 
 ![image](https://github.com/prince-std/Data-analyst-/assets/144874088/e3b7c36b-2bc4-49f7-98b9-52d9deb10695)
-[Image of a Power BI map showing the location of road accidents]
+![image](https://github.com/prince-std/Data-analyst-/assets/144874088/be84f67c-b406-45ea-a1a0-795876a2fd13)
 [Image of a Power BI chart showing the causes of road accidents]
 
 
