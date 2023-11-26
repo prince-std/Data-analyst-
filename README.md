@@ -1,5 +1,4 @@
 # Data-analyst-# Road Accident Analysis with Power BI
-Dashboard link:
 
 ## Introduction
 
