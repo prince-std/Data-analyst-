@@ -39,7 +39,7 @@ This project has demonstrated the power of data analysis to identify patterns, t
 
 ## Screenshots
 
-[C:\Users\User\OneDrive\Music\New folder\New folder\New folder\file\Pictures\Screenshots]
+[![image](https://github.com/prince-std/Data-analyst-/assets/144874088/e3b7c36b-2bc4-49f7-98b9-52d9deb10695)]
 [Image of a Power BI map showing the location of road accidents]
 [Image of a Power BI chart showing the causes of road accidents]
 
