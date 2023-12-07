@@ -1,0 +1,60 @@
+## Amazon Sales Dashboard for Power BI - Data Analyst Project
+## Dashboard link :
+
+**Project Overview:**
+
+This project aims to develop an interactive and insightful Amazon Sales Dashboard using Power BI. The dashboard will provide valuable data visualizations and analysis to help stakeholders make informed decisions regarding sales performance and identify areas for improvement.
+
+**Problem Statement:**
+
+The lack of a consolidated and readily accessible overview of Amazon sales data hinders effective decision-making and strategic planning. This project addresses this need by providing a comprehensive and user-friendly dashboard to analyze and visualize key sales metrics.
+
+**Methodology:**
+
+1. **Data Acquisition:** Collect and clean Amazon sales data from various sources, including Seller Central and marketing campaigns.
+2. **Data Transformation:** Preprocess and transform the data into a format suitable for Power BI analysis.
+3. **Data Modeling:** Design a star schema data model to efficiently store and retrieve relevant data.
+4. **Visualization Design:** Develop interactive visualizations using Power BI charts and graphs to represent key sales metrics like:
+    * Revenue by product, category, region, and time period.
+    * Profit margin by product and category.
+    * Customer acquisition and retention rates.
+    * Marketing campaign performance metrics.
+5. **Dashboard Development:** Build a user-friendly and interactive dashboard with features like:
+    * Slicers and filters for data exploration.
+    * Cards and text boxes displaying key performance indicators.
+    * Bookmarks for saving and sharing specific views.
+    * Page navigation for easy access to different dashboard sections.
+
+**Expected Outcomes:**
+
+* Improved understanding of sales trends and patterns.
+* Identification of high-performing products and categories.
+* Analysis of customer behavior and marketing campaign effectiveness.
+* Data-driven decision-making for sales optimization and strategic planning.
+* Increased transparency and accountability in sales performance.
+
+**Data Source:**
+
+The dashboard requires a data source containing your Amazon sales data. This data can be exported from  https://docs.google.com/spreadsheets/d/1Zk7O-NUWbASBKE949knkmFvMh--4U4GR/edit#gid=1634348971 The data should include the following fields:
+
+* Order ID
+* Product ID
+* Quantity
+* Price
+* Order date
+* Customer ID
+* Region
+**Screenshots:**
+* This screenshot show the top 5 profit by product from bottom.
+ ![Screenshot of amazon dashboard11](https://github.com/prince-std/Data-analyst-/assets/144874088/41c9c372-5249-4b84-a81f-aedab0a257b4)
+
+* This screenshot shows all the dashboard of this analyst:-![Screenshot of amazon dashboard](https://github.com/prince-std/Data-analyst-/assets/144874088/bebf6366-2e2b-479a-b9a1-6784adeb5e4c)
+
+
+**Disclaimer:**
+
+This dashboard is provided as-is. The author is not responsible for any errors or omissions.
+
+**Contact:**
+
+If you have any questions or feedback, please contact princeyadav.std@gmail.com
